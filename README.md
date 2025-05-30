@@ -29,7 +29,8 @@ This project builds a machine learning model to predict F1 qualifying lap times 
 - Feature importances shown for interpretability.
 
 ## 🖼️ Output
-- Feature importance chart: `images/feature_importance.png`
+- Feature importance chart: [`images/feature_importance.png`](https://github.com/Shreeansh-Gupta/F1-LapTime-Predictor/blob/main/Top20_Feature_Importance_Race.png?raw=true)
+
 
 ## 📂 Files
 - `Race_Predictor_model_f1_cleaned.py` – Cleaned version for GitHub
